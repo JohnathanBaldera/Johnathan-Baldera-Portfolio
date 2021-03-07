@@ -1,13 +1,36 @@
+body {
+    background-color: black;
+    color: white
+}
+
+#name {
+    text-align: center;
+}
+
 .navbar {
-    background-color:#444;
+    background-color:#222;
     font-size: 24px;
+}
+
+.contact-sec {
+    color: #fff;
+    align-items: center;
+    text-align: justify;
+    
+}
+
+.section-heading {
+    text-align: center;
 }
 
 a:link {
     color: #fff
 }
 
-a:hover {
-    color: #999;
+a:visited{
+    color: #fff
 }
 
+ a:hover {
+     color: #999
+ }
