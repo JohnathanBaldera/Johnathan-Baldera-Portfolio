@@ -12,6 +12,16 @@ body {
     font-size: 24px;
 }
 
+.card {
+    background-color: #000;
+}
+
+.about-me {
+    color: #fff;
+    font-size: 12px;
+
+}
+
 .contact-sec {
     color: #fff;
     align-items: center;
