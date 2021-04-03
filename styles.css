@@ -1,0 +1,94 @@
+/* Color Pallete Link: TODO */
+
+/**********************************SELECTOR TAGS**********************************/
+table {
+    border-collapse: separate;
+    border-spacing: 50px 0;
+  }
+
+body {
+    background-color: #faf6e9;
+}
+
+h1 {
+    color: #5b6d5b;
+    font-family: Big Caslon, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4.25rem;
+}
+
+h2 {
+    color: #5b6d5b;
+    text-align: center;
+    font-family: Big Caslon, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+}
+
+p {
+    color: #0a043c;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+}
+
+
+th {
+    color: #0a043c;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.25rem;
+}
+
+td {
+    color: #0a043c;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.25rem;
+}
+
+hr {
+    color: #5b6d5b;
+    border-style: dashed;
+    width: 50%;
+}
+
+/**********************************CLASS TAGS**********************************/
+.experience_table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+.experience_table_td {
+    border: 1px solid black;
+}
+
+.skills_table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.social-layout {
+    text-align: center;
+}
+
+.social-logos {
+    padding-right: 20px;
+    width: 25%;
+    max-width: 150px;
+}
+
+.social-logos:hover {
+    opacity: 70%;
+}
+
+
+/**********************************ID TAGS**********************************/
+#heading {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#profile-photo {
+    width: 75%;
+    max-width: 400px;
+}
