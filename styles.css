@@ -1,6 +1,10 @@
 /* Color Pallete Link: TODO */
 
 /**********************************SELECTOR TAGS**********************************/
+nav {
+    background-color: #5b6d5b;
+}
+
 table {
     border-collapse: separate;
     border-spacing: 50px 0;
@@ -14,6 +18,7 @@ h1 {
     color: #5b6d5b;
     font-family: Big Caslon, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 4.25rem;
+    padding-top: 40px;
 }
 
 h2 {
