@@ -44,8 +44,6 @@ td {
 
 hr {
     color: #5b6d5b;
-    border-style: dashed;
-    width: 50%;
 }
 
 /**********************************CLASS TAGS**********************************/
@@ -68,11 +66,12 @@ hr {
 
 .social-layout {
     text-align: center;
+    size: 25%;
 }
 
 .social-logos {
     padding-right: 20px;
-    width: 25%;
+    width: 20%;
     max-width: 150px;
 }
 
