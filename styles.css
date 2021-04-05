@@ -64,6 +64,7 @@ hr {
 }
 
 .skills_table {
+    color: white;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -86,6 +87,37 @@ hr {
 
 .card {
     margin: auto;
+    text-align: center;
+    background-color: #5b6d5b;
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
+
+.project-button {
+    margin-bottom: 10px;
+}
+
+.project-button:hover {
+    opacity: 70%;
+}
+
+.hr-skills {
+    color: rgb(121, 120, 120);
+}
+
+.contact-header {
+    color: white;
+}
+
+.email {
+    color: white;
+}
+
+.email:hover {
+    opacity: 70%;
 }
 
 /**********************************ID TAGS**********************************/
@@ -93,6 +125,7 @@ hr {
     margin: auto;
     width: 50%;
     text-align: center;
+    padding: 2%;
 }
 
 #profile-photo {
@@ -102,4 +135,23 @@ hr {
 
 #navlogo {
     width: 45px;
+}
+
+#portfolio {
+    background-color: wheat;
+    padding: 2%
+}
+
+#work_experience {
+    padding: 2%;
+}
+
+#skills {
+    background-color: wheat;
+    padding: 2%;
+}
+
+#contact {
+    padding: 2%;
+    background-color: rgb(121, 120, 120);
 }
