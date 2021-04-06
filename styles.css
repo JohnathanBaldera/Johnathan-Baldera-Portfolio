@@ -96,6 +96,12 @@ hr {
     color: white;
 }
 
+@media (max-width: 1250px) {
+    .card {
+        margin-bottom: 5%;
+    }
+}
+
 .project-button {
     margin-bottom: 10px;
 }
